@@ -27,3 +27,11 @@ Dress up as a traffic control officer.
 
 ![traefik logo](https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png)
 
+## vim-go
+
+Dress up as a Vim hero.
+
+[fatih/vim-go](https://github.com/fatih/vim-go)
+
+![vim go logo](https://github.com/fatih/vim-go/blob/master/assets/vim-go.png)
+
