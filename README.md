@@ -43,3 +43,35 @@ Hiding behind the Excel logo.
 
 ![excelize logo](https://github.com/qax-os/excelize/blob/master/excelize.svg)
 
+## golandci-lint
+
+Armed with a shield bug emblem.
+
+[golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+
+![golangci-lint logo](https://github.com/golangci/golangci-lint/raw/master/assets/go.png)
+
+## Ebitengine(v2)
+
+Dress up as a shrimp tempura in ebi tendon.
+
+[hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten)
+
+![ebiten logo](https://repository-images.githubusercontent.com/10721619/b1873d61-ee0f-439c-be2c-3eaee10c4c95)
+
+## Awesome Ebitengine
+
+Wearing sunglasses with shrimp tempura mark.
+
+[sedyh/awesome-ebitengine](https://github.com/sedyh/awesome-ebitengine)
+
+![ebitengine logo](https://user-images.githubusercontent.com/19890545/150690287-d7a7a4c0-ce89-4c49-8043-5af0348e615e.png)
+
+## Watermill
+
+Dress up as a water mill.
+
+[https://github.com/ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill)
+
+![watermill logo](https://camo.githubusercontent.com/d3c436613b93cb31b178b3e6f9d80766f6c1d204f792d00107deda340ef31b74/68747470733a2f2f7468726565646f74732e746563682f77617465726d696c6c2d696f2f77617465726d696c6c2d6c6f676f2e706e67)
+
