@@ -49,7 +49,11 @@ Armed with a shield bug emblem.
 
 [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
 
-![golangci-lint logo](https://github.com/golangci/golangci-lint/raw/master/assets/go.png)
+<!-- markdownlint-disable MD033 MD013 -->
+
+<img alt="golangci logo" width="400px" src="https://github.com/golangci/golangci-lint/raw/master/assets/go.png" />
+
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## Ebitengine(v2)
 
