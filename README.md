@@ -82,3 +82,9 @@ Dress up as a water mill.
 <img alt="watermill logo" width="400px" src="https://camo.githubusercontent.com/d3c436613b93cb31b178b3e6f9d80766f6c1d204f792d00107deda340ef31b74/68747470733a2f2f7468726565646f74732e746563682f77617465726d696c6c2d696f2f77617465726d696c6c2d6c6f676f2e706e67" />
 
 <!-- markdownlint-enable MD033 MD013 -->
+
+## yaegi
+
+Dress up as a zen master.
+
+[traefik/yaegi](https://github.com/traefik/yaegi)
