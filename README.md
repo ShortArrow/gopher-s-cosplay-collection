@@ -98,3 +98,11 @@ A flock of gophers creates a phantom effect of an integrated circuit.
 [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
 
 ![pdfcpu logo](https://github.com/pdfcpu/pdfcpu/raw/master/resources/logoSmall.png)
+
+## Go Clean template
+
+Dress up as a Single cell creature.
+
+[evrone/go-clean-template](https://github.com/evrone/go-clean-template)
+
+![go clean template logo](https://github.com/evrone/go-clean-template/raw/master/docs/img/logo.svg)
