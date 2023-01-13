@@ -91,3 +91,10 @@ Dress up as a zen master.
 
 ![yaegi logo](https://github.com/traefik/yaegi/raw/master/doc/images/yaegi.png)
 
+## pdfcpu
+
+A flock of gophers creates a phantom effect of an integrated circuit.
+
+[pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu)
+
+![pdfcpu logo](https://github.com/pdfcpu/pdfcpu/raw/master/resources/logoSmall.png)
