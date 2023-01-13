@@ -88,3 +88,6 @@ Dress up as a water mill.
 Dress up as a zen master.
 
 [traefik/yaegi](https://github.com/traefik/yaegi)
+
+![yaegi logo](https://github.com/traefik/yaegi/raw/master/doc/images/yaegi.png)
+
