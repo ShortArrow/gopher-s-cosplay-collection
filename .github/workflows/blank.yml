@@ -20,11 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+    - run: pwd
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         use-quiet-mode: no
         use-verbose-mode: no
-        folder-path: content/
+        folder-path: ./
         # file-path: ./README.md, ./LICENSE
         file-path: ./README.md
         file-extension: .md
