@@ -1,4 +1,4 @@
-# gopher-s-cosplay-collection
+# Gopher's cosplay collection
 
 Copyrights and other rights related to these images,
 belong to the original right holders.
