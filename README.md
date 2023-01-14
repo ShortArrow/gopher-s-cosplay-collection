@@ -121,7 +121,11 @@ Dress up as a Doctor.
 
 <https://github.com/golang-design/under-the-hood>
 
-![golang-under-the-hood](https://github.com/golang-design/under-the-hood/raw/main/book/assets/cover-cn-v3.png)
+<!-- markdownlint-disable MD033 MD013 -->
+
+<img alt="golang-under-the-hood" width="400px" src="https://github.com/golang-design/under-the-hood/raw/main/book/assets/cover-cn-v3.png" />
+
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## revive
 
@@ -153,7 +157,11 @@ Dress up as a mage.
 
 <https://github.com/magefile/mage>
 
-![mage logo](https://github.com/magefile/mage/blob/master/site/static/images/gary.svg)
+<!-- markdownlint-disable MD033 MD013 -->
+
+<img alt="mage logo" width="400px" src="https://github.com/magefile/mage/blob/master/site/static/images/gary.svg" />
+
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## Goxygen
 
@@ -185,7 +193,11 @@ Dress up as a janitor who keeps looking at the log monitor and has bloodshot eye
 
 <https://github.com/kitabisa/teler>
 
-![teler logo](https://user-images.githubusercontent.com/25837540/97091757-7200d880-1668-11eb-82c4-e5c4971d2bc8.png)
+<!-- markdownlint-disable MD033 MD013 -->
+
+<img alt="teler logo" width="400px" src="https://user-images.githubusercontent.com/25837540/97091757-7200d880-1668-11eb-82c4-e5c4971d2bc8.png" />
+
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## eggos
 
@@ -201,7 +213,11 @@ Dress up as a super hero has Ethereum emblem on the chest.
 
 <https://github.com/miguelmota/ethereum-development-with-go-book>
 
-![ethereum hero logo](https://github.com/miguelmota/ethereum-development-with-go-book/raw/master/assets/cover.jpg)
+<!-- markdownlint-disable MD033 MD013 -->
+
+<img alt="ethereum hero logo" width="400px" src="https://github.com/miguelmota/ethereum-development-with-go-book/raw/master/assets/cover.jpg" />
+
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## Gnomock
 
