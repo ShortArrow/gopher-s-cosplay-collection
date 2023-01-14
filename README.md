@@ -1,5 +1,8 @@
 # Gopher's cosplay collection
 
+Gophers are so cute. And does a very cute cosplay.
+It's too cute, so I've collected it.
+
 Copyrights and other rights related to these images,
 belong to the original right holders.
 
