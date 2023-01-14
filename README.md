@@ -9,7 +9,7 @@ Dress up as a shell.
 
 <https://github.com/create-go-app/cli>
 
-![icon of create go app cli](https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo%402x.png)
+![icon of create go app cli](https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo.png)
 
 ## Hugo
 
