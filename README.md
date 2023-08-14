@@ -11,24 +11,52 @@ belong to the original right holders.
 Dress up as a shell.
 
 <https://github.com/create-go-app/cli>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/create-go-app/cli">
+<img height="200em" 
+  alt="gopher dressed as cli"
+  src="https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
 
-![icon of create go app cli](https://raw.githubusercontent.com/create-go-app/cli/master/.github/images/cgapp_logo.png)
+## Gin
+
+The fastest full-featured web framework for Go.
+
+<https://github.com/gin-gonic/gin>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/gin-gonic/gin">
+<img height="200em" 
+  alt="gopher dressed as gin"
+  src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## Hugo
 
 Dress up as a super hero.
 
 <https://github.com/gohugoio/hugo>
-
-[![hugo ogp](https://repository-images.githubusercontent.com/11180687/9d3d8200-abf2-11e9-803c-4cdfde0d22e5)](https://github.com/gohugoio/hugo)
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/gohugoio/hugo">
+  <img height="200em" 
+    alt="hugo banner"
+    src="https://repository-images.githubusercontent.com/11180687/9d3d8200-abf2-11e9-803c-4cdfde0d22e5" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## Traefik
 
 Dress up as a traffic control officer.
 
 <https://github.com/traefik/traefik>
-
-![traefik logo](https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png)
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/traefik/traefik">
+<img height="200em" 
+  alt="gopher dressed as traffic control officer"
+  src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefik.logo.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
 
 ## vim-go
 
