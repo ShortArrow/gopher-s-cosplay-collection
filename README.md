@@ -32,6 +32,32 @@ The fastest full-featured web framework for Go.
 </a>
 <!-- markdownlint-enable MD033 MD013 -->
 
+## GORM
+
+ The fantastic ORM library for Golang, aims to be developer friendly
+
+<https://github.com/go-gorm/gorm>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/go-gorm/gorm">
+<img height="200em" 
+  alt="gopher dressed as dialect gorm"
+  src="https://gorm.io/gorm.svg" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
+## Go kit
+
+ A Go toolkit for microservices.
+
+<https://github.com/go-kit/kit>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/go-kit/kit">
+<img height="200em" 
+  alt="gopher dressed as hex nut"
+  src="https://avatars.githubusercontent.com/u/10981023" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
 ## Hugo
 
 Dress up as a super hero.
