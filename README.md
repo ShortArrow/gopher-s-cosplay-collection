@@ -32,6 +32,71 @@ The GoCover project started in 2014 and shutdown in 2023. Sources can be found o
 </a>
 <!-- markdownlint-enable MD033 MD013 -->
 
+## µTask
+
+µTask is an automation engine built for the cloud.
+
+<https://github.com/ovh/utask>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/ovh/utask">
+<img height="200em" 
+  alt="gopher dressed as fool"
+  src="https://github.com/ovh/utask/raw/master/assets/img/utask.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
+## gebug
+
+A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
+
+<https://github.com/moshebe/gebug>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/moshebe/gebug">
+<img height="200em" 
+  alt="gopher dressed as person has bug tattoo"
+  src="https://github.com/moshebe/gebug/raw/master/assets/logo.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
+## SeaweedFS
+
+SeaweedFS is a simple and highly scalable distributed file system.
+
+<https://github.com/seaweedfs/seaweedfs>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/seaweedfs/seaweedfs">
+<img height="200em" 
+  alt="gopher dressed as to become seaweed"
+  src="https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/seaweedfs.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
+## Vaku
+
+Vaku is a CLI and Go API that extends the official Hashicorp Vault CLI and API with useful high-level functions such as the ability to copy, move, and search Vault paths and folders.
+
+<https://github.com/lingrino/vaku>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/lingrino/vaku">
+<img height="200em" 
+  alt="gopher dressed as to The safe deposit fairy"
+  src="https://github.com/lingrino/vaku/raw/main/www/assets/images/logo-vaku-sm.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
+## Blocky
+
+Blocky is a DNS proxy and ad-blocker for the local network written in Go.
+
+<https://github.com/0xERR0R/blocky>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/0xERR0R/blocky">
+<img height="200em" 
+  alt="gopher dressed as soldier has sword and shield"
+  src="https://github.com/0xERR0R/blocky/raw/main/docs/blocky.svg" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
 ## Staticcheck
 
 Staticcheck is a state of the art linter for the Go programming language. 
