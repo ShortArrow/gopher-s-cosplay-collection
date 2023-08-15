@@ -19,6 +19,32 @@ Dress up as a shell.
 </a>
 <!-- markdownlint-enable MD033 MD013 -->
 
+## GoCover
+
+The GoCover project started in 2014 and shutdown in 2023. Sources can be found on GitHub.
+
+<https://github.com/vieux/gocover.io>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/vieux/gocover.io">
+<img height="200em" 
+  alt="gopher dressed as spanner"
+  src="https://github.com/vieux/gocover.io/blob/master/server/static/logo.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
+## Staticcheck
+
+Staticcheck is a state of the art linter for the Go programming language. 
+
+<https://github.com/dominikh/go-tools>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/vieux/gocover.io">
+<img height="200em" 
+  alt="gopher dressed as person who checks accuracy of drawing"
+  src="https://github.com/dominikh/go-tools/raw/master/images/logo.svg" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
 ## Gin
 
 The fastest full-featured web framework for Go.
