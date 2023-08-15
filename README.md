@@ -19,6 +19,19 @@ Dress up as a shell.
 </a>
 <!-- markdownlint-enable MD033 MD013 -->
 
+## Jaeger
+
+Jaeger is used for monitoring and troubleshooting microservices-based distributed systems.
+
+<https://github.com/jaegertracing/jaeger>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/jaegertracing/jaeger">
+<img height="200em" 
+  alt="gopher dressed as jaeger"
+  src="https://www.jaegertracing.io/img/jaeger-vector.svg" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
 ## GoCover
 
 The GoCover project started in 2014 and shutdown in 2023. Sources can be found on GitHub.
