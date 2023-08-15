@@ -3,6 +3,8 @@
 Gophers are so cute. And does a very cute cosplay.
 It's too cute, so I've collected it.
 
+If you see Gopher cosplaying, please report it to us.
+
 Copyrights and other rights related to these images,
 belong to the original right holders.
 
