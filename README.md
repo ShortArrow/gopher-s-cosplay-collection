@@ -21,6 +21,19 @@ Dress up as a shell.
 </a>
 <!-- markdownlint-enable MD033 MD013 -->
 
+## ldapAuth
+
+Traefik ldapAuth Middleware
+
+<https://github.com/wiltonsr/ldapAuth>
+<!-- markdownlint-disable MD033 MD013 -->
+<a href="https://github.com/wiltonsr/ldapAuth">
+<img height="200em" 
+  alt="gopher dressed as magic swordsman"
+  src="https://github.com/wiltonsr/ldapAuth/raw/main/imgs/gandalpher.png" />
+</a>
+<!-- markdownlint-enable MD033 MD013 -->
+
 ## Jaeger
 
 Jaeger is used for monitoring and troubleshooting microservices-based distributed systems.
